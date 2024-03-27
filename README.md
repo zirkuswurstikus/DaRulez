@@ -5,6 +5,6 @@
 - Reboot tut immer gut!
 - Read the fucking manual!
 - Primum non nocere!
-- Ficke nieFicker!
+- Ficke nie Ficker!
 - If it's not the DNS, its the firewall!
 - Logs lügen nicht!
