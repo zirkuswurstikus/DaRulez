@@ -1,2 +1,10 @@
 # DaRulez
-FISI Regeln
+
+- Don't drink and route!
+- Kein Backup, kein Mitleid!
+- Reboot tut immer gut!
+- Read the fucking manual!
+- Primum non nocere!
+- Ficke nieFicker!
+If it's not the DNS, its the firewall!
+Logs lügen nicht!
