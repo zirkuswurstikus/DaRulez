@@ -6,5 +6,5 @@
 - Read the fucking manual!
 - Primum non nocere!
 - Ficke nieFicker!
-If it's not the DNS, its the firewall!
-Logs lügen nicht!
+- If it's not the DNS, its the firewall!
+- Logs lügen nicht!
