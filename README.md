@@ -1,6 +1,6 @@
 # DaRulez
 
-- Don't drink and route!
+- Don't drink and root!
 - Kein Backup, kein Mitleid!
 - Reboot tut immer gut!
 - Read the fucking manual!
